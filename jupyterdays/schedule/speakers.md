@@ -58,6 +58,12 @@ Lindsey Heagy is a Postdoctoral Researcher at UC Berkeley where she works with m
 
 ## Firas Moosvi
 
+Firas Moosvi is a Lecturer in the Computer Science, Mathematics, Physics, and Statistics department at UBC Okanagan. He teaches both physics and data science at the undergraduate and graduate levels. Firas is very interested in for education research, data visualization, science communication, as well as the field of Learning Analytics. His PhD was in medical imaging, particularly in cancer applications of MRI.
+
+- Website: [firas.moosvi.com](https://firas.moosvi.com/)
+- Twitter: [FirasM](https://twitter.com/FirasM)
+- GitHub: [FirasM](https://github.com/FirasM)
+
 ## Joel Ostblom
 
 ## Tiffany Timbers
